@@ -6,9 +6,9 @@ Bot klik Indomaret by Team @AnteiCodes
 ```bash
 apt update
 apt install wget php curl git -y
-git clone https://github.com/Anteicodes/klik-poinku
+git clone https://github.com/Anonymmus570/klik-poinku
 cd klik-poinku
-php run.php
+php ran.php
 ```
 
 ## PERHATIAN
